@@ -1,2 +1,4 @@
-# EXAMENSARBETE_JS223KZ
-PART 1: Written academic report PART 2: Application written in Angular, Node, Express and MongoDB
+# EXAMENSARBETE Johanna Szepanski
+Självständigt arbete i Datavetenskap
+
+HTTP/2 - Är väntans tider över på webben?
